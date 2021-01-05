@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/12/14 13:57:45.000.636,=C:\Users\WhiteDoor\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/12/14 13:57:45.000.603,=C:\Users\WhiteDoor\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/12/14 13:59:37.000.395,C:\Users\WhiteDoor\Documents\Embarcadero\Studio\Projects\Unit1.dfm=I:\XEProjects\10.1\LightOffDelayChecker\Unit1.dfm</Transaction>
+    <Transaction>2020/12/14 13:59:37.000.395,C:\Users\WhiteDoor\Documents\Embarcadero\Studio\Projects\Unit1.h=I:\XEProjects\10.1\LightOffDelayChecker\Unit1.h</Transaction>
+    <Transaction>2020/12/14 13:59:37.000.395,C:\Users\WhiteDoor\Documents\Embarcadero\Studio\Projects\Unit1.cpp=I:\XEProjects\10.1\LightOffDelayChecker\Unit1.cpp</Transaction>
+    <Transaction>2020/12/14 13:59:39.000.960,C:\Users\WhiteDoor\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=I:\XEProjects\10.1\LightOffDelayChecker\Project1PCH1.h</Transaction>
+    <Transaction>2020/12/14 13:59:45.000.203,C:\Users\WhiteDoor\Documents\Embarcadero\Studio\Projects\Project1.cbproj=I:\XEProjects\10.1\LightOffDelayChecker\LightOffDelayChecker.cbproj</Transaction>
+    <Transaction>2020/12/14 13:59:45.000.181,I:\XEProjects\10.1\LightOffDelayChecker\Project1PCH1.h=I:\XEProjects\10.1\LightOffDelayChecker\LightOffDelayCheckerPCH1.h</Transaction>
+  </Transactions>
+</BorlandProject>
